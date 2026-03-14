@@ -1,13 +1,13 @@
 # Enzo Crivello-Omani
 
 **Développeur Jeux Vidéo · Game Designer**  
-Étudiant en Bachelor Développeur Informatique, option Jeux Vidéo — Gaming Campus, Lyon  
+Étudiant en Bachelor Développeur Informatique, option Jeux Vidéo - Gaming Campus, Lyon  
 À la recherche d'un **stage** (2026) puis d'une **alternance** à partir d'octobre 2026
 
 ---
 
 Je me spécialise dans le développement de mécaniques de jeu originales et le game design de systèmes cohérents.  
-Ce qui m'anime : créer des expériences où le joueur apprend par l'exploration plutôt que par la contrainte — qu'il s'agisse de génération procédurale, de puzzles dimensionnels ou d'effets visuels immersifs.
+Ce qui m'anime : créer des expériences où le joueur apprend par l'exploration plutôt que par la contrainte - qu'il s'agisse de génération procédurale, de puzzles dimensionnels ou d'effets visuels immersifs.
 
 ---
 
@@ -35,16 +35,16 @@ Ce qui m'anime : créer des expériences où le joueur apprend par l'exploration
 ## Projets
 
 ### 🌐 [Portfolio](https://nyevius.github.io)
-Portfolio web présentant mes projets, compétences et game concepts — avec captures, descriptions et liens vers les repos.
+Portfolio web présentant mes projets, compétences et game concepts - avec captures, descriptions et liens vers les repos.
 
 ---
 
 ### [Génération Procédurale & Portails](https://github.com/Nyevius/Portal-Procedural)
-Jeu d'exploration Unity à niveaux générés procéduralement. Le joueur collecte des pots de peinture pour tracer un portail et accéder au biome suivant — plaines, désert, neige.  
+Jeu d'exploration Unity à niveaux générés procéduralement. Le joueur collecte des pots de peinture pour tracer un portail et accéder au biome suivant - plaines, désert, neige.  
 `Unity` `C#` `Génération procédurale`
 
 ### [Rooms - Escape Game](https://github.com/Nyevius/Rooms-Puzzle-Game-)
-Puzzle Unreal Engine 5 minimaliste : le joueur est piégé dans un appartement dont chaque porte mène à la même pièce — légèrement différente à chaque fois.  
+Puzzle Unreal Engine 5 minimaliste : le joueur est piégé dans un appartement dont chaque porte mène à la même pièce - légèrement différente à chaque fois.  
 `Unreal Engine 5` `C++` `Game Design`
 
 ### [Shaders & VFX - Crystal Quest](https://github.com/Nyevius/Shaders-VFX)
@@ -53,7 +53,7 @@ Showcase de shaders et effets visuels Unity intégrés dans un jeu d'aventure co
 
 ---
 
-## Game Concept — Spirit Dash
+## Game Concept - Spirit Dash
 
 > *Un esprit sans mémoire. Une épée spirituelle. Des ruines antiques où chaque lancer est un choix.*
 
