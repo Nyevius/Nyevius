@@ -58,7 +58,7 @@ Showcase de shaders et effets visuels Unity intégrés dans un jeu d'aventure co
 > *Un esprit sans mémoire. Une épée spirituelle. Des ruines antiques où chaque lancer est un choix.*
 
 Conception complète d'un Action Platformer : mécaniques de dash et téléportation via une épée spirituelle, progression narrative par fragments de mémoire, direction artistique médiévale.  
-→ **[Lire le Game Concept Document](https://nyevius.github.io/spirit-dash.html)**
+→ **[Lire le Game Concept Document](https://nyevius.github.io/en/spirit-dash.html)**
 
 ---
 
